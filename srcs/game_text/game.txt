@@ -1,0 +1,4 @@
+- Type “man” to display all the instruction available;
+  (Follow up by type “fr” to display french text or “en” to display english text)
+
+- Press “Ctrl + D” to end your input and GRADEME;
